@@ -1,4 +1,4 @@
-# Program to multiply two matrices using nested loops
+## Program to multiply two matrices using nested loops
 
 # 3x3 matrix
 X = [[12,7,3],
